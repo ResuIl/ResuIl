@@ -29,4 +29,4 @@ My Aim: Senior Developer
   <br><br>
 
 
-![Profile views](https://gpvc.arturio.dev/uIl)
+![](https://komarev.com/ghpvc/?username=ResuIl&label=PROFILE+VIEWS)
