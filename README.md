@@ -9,8 +9,8 @@ I am trying to improve myself in software.
 My Aim: Senior Developer
 ```
  
-<img align="left" href="salam.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> https://www.youtube.com/channel/UCAjUoh7E16J67G-Y9leGhWg <br>
+<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" /> https://discord.gg/oxygen
 
 <br><br>
 
