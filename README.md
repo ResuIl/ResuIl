@@ -9,8 +9,9 @@ I am trying to improve myself in software.
 My Aim: Senior Developer
 ```
  
-[<img align="left" alt="abdulkadiraktas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<img align="left" alt="abdulkadiraktas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="abdulkadiraktas | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
+<br>
 **Skills:**  
 
 <code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code> **C++** <br>
