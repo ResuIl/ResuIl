@@ -30,6 +30,9 @@ My Aim: Senior Developer
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   <br><br>
+ 
+ [![Discord Presence](https://lanyard.cnrad.dev/api/415885597987831808
+                            )](https://discord.com/users/415885597987831808)
 
 
 ![](https://komarev.com/ghpvc/?username=ResuIl&label=PROFILE+VIEWS)
