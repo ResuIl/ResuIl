@@ -31,8 +31,7 @@ My Aim: Senior Developer
   
   <br><br>
  
- [![Discord Presence](https://lanyard.cnrad.dev/api/415885597987831808
-                            )](https://discord.com/users/415885597987831808)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/415885597987831808)](https://discord.com/users/415885597987831808)
 
 
 ![](https://komarev.com/ghpvc/?username=ResuIl&label=PROFILE+VIEWS)
