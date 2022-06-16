@@ -8,6 +8,8 @@ I am 16 years old,
 I am trying to improve myself in software.
 My Aim: Senior Developer
 ```
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="resull" data-color="#d80e0e" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
  
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> https://www.youtube.com/channel/UCAjUoh7E16J67G-Y9leGhWg <br><br>
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" /> https://discord.gg/oxygen
