@@ -8,6 +8,8 @@ I am 16 years old,
 I am trying to improve myself in software.
 My Aim: Senior Developer
 ```
+
+<a href="https://www.buymeacoffee.com/appcraftstudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
  
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> https://www.youtube.com/channel/UCAjUoh7E16J67G-Y9leGhWg <br><br>
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" /> https://discord.gg/oxygen
