@@ -5,7 +5,7 @@
 ```css
 Hello, I'm Resul. 
 I am 16 years old, 
-I am trying to improve myself in software.
+I am trying to improve myself in software programming.
 My Aim: Senior Developer
 ```
 
