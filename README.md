@@ -1,6 +1,6 @@
 ## Resul
 
-# Click Gif
+# Click Gif For About Me.
 
 <a href="https://resuil.github.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/1039257467932127312/1043469152062550026/Terminal.gif" alt="Terminal" style="height: 338px !important;width: 600px !important;" ></a>
  
