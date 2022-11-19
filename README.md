@@ -1,12 +1,9 @@
 ## Resul
 
-
 <a href="https://resuil.github.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/1039257467932127312/1043469152062550026/Terminal.gif" alt="Terminal" style="height: 338px !important;width: 600px !important;" ></a>
 
 <a href="https://www.buymeacoffee.com/resull" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><a href="https://www.youtube.com/channel/UCAjUoh7E16J67G-Y9leGhWg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" style="height: 70px !important;width: 117px !important;" ></a> 
  
-
-
 <div>
   <a href="https://github.com/ResuIl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ResuIl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
