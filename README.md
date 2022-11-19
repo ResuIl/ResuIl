@@ -1,6 +1,6 @@
 ## Resul
 
-![](https://github.com/ResuIl/ResuIl/blob/main/Terminal.gif)
+<img src="https://github.com/ResuIl/ResuIl/blob/main/Terminal.gif" width="600" height="338" href="https://resuil.github.io/" />
 
 <a href="https://www.buymeacoffee.com/resull" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><a href="https://www.youtube.com/channel/UCAjUoh7E16J67G-Y9leGhWg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" style="height: 70px !important;width: 117px !important;" ></a> 
  
